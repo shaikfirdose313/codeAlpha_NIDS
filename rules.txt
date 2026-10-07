@@ -1,0 +1,17 @@
+CodeAlpha NIDS Detection Rules
+
+Rule 1:
+Detect unusually high packet activity from a single source IP.
+
+Threshold:
+More than 20 packets within 10 seconds.
+
+Rule 2:
+Monitor repeated connection attempts.
+
+Rule 3:
+Monitor unusual network traffic patterns.
+
+Purpose:
+These rules are intended for educational network monitoring
+on networks where the user has permission to monitor traffic.
